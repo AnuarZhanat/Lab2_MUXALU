@@ -1,6 +1,6 @@
 # Lab2_MUXALU
 
-The YouTube video link: https://youtu.be/mssYSkxJPhI
+The YouTube video link: https://youtu.be/eO44ESdgk_s
 
 ## Part1.a
 The module was created by:
